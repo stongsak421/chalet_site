@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Slabo+27px');
+
+.site-title {
+	font-family: 'Slabo 27px', serif;
+}
+
+body {
+font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	font-size: 125%;
+}
+
+.entry-title-primary {
+	font-size: 150%;
+}
+
+
+span.entry-subtitle {
+	font-size: 100%;
+}
+
+.ast-small-footer-section {
+	font-family: 'Slabo 27px', serif;
+}
+
+.ast-small-footer-section-1 {
+	font-size: 40px;
+}
+
+.ast-small-footer-section-2 {
+	font-size: 20px;
+}
